@@ -14,6 +14,7 @@ public class Soru5 {
 			System.out.println(sayi1 + " * "+sayi2+ "=" + carpým );
 			
 	
+			System.out.println("Suan adnan branch deyiz");
 		}
 
 		
